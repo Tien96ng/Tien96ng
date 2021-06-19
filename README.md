@@ -8,7 +8,6 @@
 - 📫 &nbsp; Looking for Open Source projects to add contributions!
 
 <hr />
-&nbsp;
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -21,7 +20,7 @@
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-  &nbsp;<img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
+  <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql"/>
 
 - &nbsp;
@@ -36,7 +35,6 @@
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
 <hr />
-&nbsp;
 
 ## 	📊  &nbsp;My Stats
 <p>
@@ -47,7 +45,6 @@
 </p>
 
 <hr />
-&nbsp;
 
 ##  🤝🏻 &nbsp;Connect with Me
 
