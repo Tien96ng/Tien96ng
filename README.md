@@ -7,7 +7,6 @@
 - 🚀  &nbsp; Exploring new technologies & developing software to solve solutions.
 - 📫 &nbsp; Looking for Open Source projects to add contributions!
 
-<hr />
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -34,8 +33,6 @@
 - &nbsp;
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
-<hr />
-
 ## 	📊  &nbsp;My Stats
 <p>
 <a href="https://github.com/AVS1508">
@@ -44,7 +41,6 @@
 </a>
 </p>
 
-<hr />
 
 ##  🤝🏻 &nbsp;Connect with Me
 
